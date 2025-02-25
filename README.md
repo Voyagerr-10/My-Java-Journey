@@ -42,7 +42,7 @@ This repository contains Java programs that i solved from basic to advanced conc
 | q034_GCD                 | Finds LCM of two values                                 |
 | q035_checkPrime          | Checks if a number is Prime or not (Brute)              |
 | q036_checkPrime2         | Checks if a number is Prime or not                      |
-| q037_ReverseDigits       | Reverses the digits of a number                         |
+| q037_DisplayDigits       | Prints the digits of a number                           |
 
 ## 🚀 How to Run  
 1. Clone this repository:  
