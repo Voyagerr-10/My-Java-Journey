@@ -45,7 +45,7 @@ This repository contains Java programs that i solved from basic to advanced conc
 | q037_DisplayDigits       | Prints the digits of a number                                   |
 | q038_ReverseDigits       | Prints the digits in reverse order                              |
 | q039_ReverseDigits2      | Prints digits in reverse order by adding values                 |
-| q040_Fibonacci           | Displays first n Fibonacci numbers || Fibonacci numbers up to n |
+| q040_Fibonacci           | Displays first n Fibonacci numbers | Fibonacci numbers up to n |
 
 ## 🚀 How to Run  
 1. Clone this repository:  
