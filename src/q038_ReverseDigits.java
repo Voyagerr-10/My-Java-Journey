@@ -11,16 +11,6 @@ public class q038_ReverseDigits {
 
         int result = reverseDigits(num);
         System.out.print(result);
-//        // Handling trailing zero
-//        while (num%10==0 && num!=0) {
-//            num/=10;
-//        }
-//
-//        // Computing and displaying digits in reverse order
-//        while (num > 0) {
-//            System.out.print( num % 10 + " ");
-//            num/=10;
-//        }
     }
 
     public static int reverseDigits(int num) {
