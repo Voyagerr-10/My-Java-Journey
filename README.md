@@ -46,6 +46,11 @@ This repository contains Java programs that i solved from basic to advanced conc
 | q038_ReverseDigits       | Prints the digits in reverse order                             |
 | q039_ReverseDigits2      | Prints digits in reverse order by adding values                |
 | q040_Fibonacci           | Displays first n Fibonacci numbers / Fibonacci numbers up to n |
+| q041_Armstrong           | Checks if a number is an Armstrong number                      |
+| q042_Palindrome          | Checks if a number is a Palindrome                             |
+| q043_Pattern01           | Prints a right half pyramid from given number of lines         |
+| q044_Pattern02           | Prints a reverse right half pyramid of given size              |
+| q045_Pattern03           | Prints a left half pyramid of given size                       |
 
 ## 🚀 How to Run  
 1. Clone this repository:  
